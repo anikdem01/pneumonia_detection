@@ -1,2 +1,2 @@
 # pneumonia_detection
-Classifying CXRs as either normal or pneumonia using kaggle dataset.
+Classifying chest xrays as either normal or pneumonia using kaggle dataset.
